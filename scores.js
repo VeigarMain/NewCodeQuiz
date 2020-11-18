@@ -14,4 +14,3 @@ if (allScores !== null) {
 		hScore.appendChild(createLi);
 	}
 }
-© 2020 GitHub, Inc.

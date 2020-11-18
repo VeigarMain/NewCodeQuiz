@@ -7,14 +7,8 @@ body {
     height: 1000px;
 }
 
-#nav {
-    background-color: whitesmoke;
-    
-}
 
-#quiz {
-    background-color: aqua;
-}
+
 .right {
     text-align: right;
     font-size: 40px;
@@ -35,17 +29,18 @@ body {
 }
 
 h1 {
-    
+    color: purple;
     font-size: 40px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+ h2 {
+     color: #9f00ff;
+ }
+
 
 h3 {
     color: red;
     font-weight: bolder;
 }
 
-#nav {
-    background-color: whitesmoke;
-    
-}
